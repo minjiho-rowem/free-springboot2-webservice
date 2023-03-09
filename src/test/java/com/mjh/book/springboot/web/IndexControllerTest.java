@@ -22,5 +22,6 @@ public class IndexControllerTest {
 
 		// then
 		assertThat(body).contains("스프링부트로 시작하는 웹 서비스");
+
 	}
 }
